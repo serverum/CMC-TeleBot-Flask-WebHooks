@@ -5,4 +5,4 @@ CoinMarketCap API Telegram Bot on Flask based on WebHooks (Flask + CMC API + rq)
 2. Copy/paste them into tokens.py
 3. Deploy on your server
 
-If you would like I assist you & adding some advanced features and deploy the bot on your servers, text me back by email.
+If you would like I assist you & adding some advanced features and deploy the bot on your server, text me back by email.
